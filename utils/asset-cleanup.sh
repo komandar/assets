@@ -1,4 +1,10 @@
 #!/bin/bash
+#########################################################################
+#
+# Name: asset-cleanup.sh
+# Subscription: This script removes exif data of added images
+#
+#########################################################################
 
 main() {
     exif_cleaner
@@ -8,8 +14,7 @@ main() {
 exif_cleaner() {
 
     ./bin/exiftool -all:all= -r ../src
-
-    echo "All metadata removed!"
+    echo -e "\nMetadata was cleaned up!\n"
 }
 
 main

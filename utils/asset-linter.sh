@@ -1,4 +1,10 @@
 #!/bin/bash
+#########################################################################
+#
+# Name: asset-linter.sh
+# Subscription: This script checks the added images for the right filesize and extension
+#
+#########################################################################
 
 # Get all files inside of src/*
 main() {
