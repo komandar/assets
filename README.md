@@ -4,7 +4,7 @@
 
 A repository containing assets used in my GitHub project's README files.
 
-[![Build Status](https://github.com/komandar/nginx-php-docker/workflows/build/badge.svg)](https://github.com/komandar/nginx-php-docker/actions)
+[![Build Status](https://github.com/komandar/assets/workflows/build/badge.svg)](https://github.com/komandar/assets/actions)
 
 </div>
 
